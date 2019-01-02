@@ -14,7 +14,7 @@
     "require": {
         "php": ">=7.0.0",
         "laravel/framework": "~5.5",
-        "la-php/laravel-admin": "~1.6"
+        "la-php/laravel-admin": "~10.6"
     },
     "require-dev": {
         "phpunit/phpunit": "~6.0",
