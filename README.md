@@ -17,7 +17,7 @@ Inspired by https://github.com/laravel-backpack/settings.
 ## Installation
 
 ```
-$ composer require laravel-admin-ext/config
+$ composer require la-php/laravel-admin-config
 
 $ php artisan migrate
 ```
